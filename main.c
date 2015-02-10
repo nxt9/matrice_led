@@ -6,7 +6,7 @@
 #include "affichage_matrice_console.h"
 #include "initialisation_matrice.h"
 #include "alphabet.h"
-/* test git hub lilol llll*/
+
 void main()
 {
     char matrice[taille_matrice_y][taille_matrice_x];
